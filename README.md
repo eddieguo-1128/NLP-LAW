@@ -1,7 +1,7 @@
 # LEGAL STUDIES 190, FALL 22
 ## Natural Language Processing & Law
 
-During Summer 2022, I collaborated with the Developer Team and instructor Ilya Akdemir to develop lab notebooks for Legal Studies 190. The goal of this course is to examine natural language processing tools and techniques and how they can be used with legal text data. Below is a list of all the labs our team has developed. 
+During Summer 2022, I collaborated with the Developer Team and instructor Ilya Akdemir to develop lab notebooks for [Legal Studies 190](https://classes.berkeley.edu/content/2022-fall-legalst-190-007-sem-007). The goal of this course is to examine natural language processing tools and techniques and how they can be used with legal text data. Below is a list of all the labs our team has developed. 
 
 | Module         | Summary                                       |Berkeley Datahub Link           |
 |---------------|-----------------------------------------------|--------------------------------|
